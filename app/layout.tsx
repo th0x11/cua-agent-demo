@@ -18,8 +18,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "CUA Demo",
-  description: "CUA Demo",
+  title: "CUA Agent Demo",
+  description: "CUA Agent Demo",
 };
 
 export default function RootLayout({
